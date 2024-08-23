@@ -1,0 +1,3 @@
+This is the notebook where I prepared my submissions for the Kaggle competition [Binary Classification of Insurance Cross Selling](https://www.kaggle.com/competitions/playground-series-s4e7). It can be used to recover my results.
+
+I ranked in the top 30% (596th out of 2234). I was aiming for 25%, but this is good enough. My best score 0.88475, is smaller than the best score by 0. 01279. This difference only justifies the extra work in the context of a competition. It would not matter in any practical application.
